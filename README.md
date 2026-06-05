@@ -16,11 +16,6 @@ I'am work as a Software Engineer and I am currently scaling @ [Sardine.ai](https
 
 ### 🔒 [mctest-validator](https://github.com/leirbagseravat/mctest-validator-api)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
-![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
 A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampirolli/mctest) — a platform for generating and auto-grading parametric exams — against malicious or insecure Python embedded in exam questions.
 
 > 🎓 Built as the implementation of my undergraduate CS thesis at **UFABC** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"* (Dec 2024).
