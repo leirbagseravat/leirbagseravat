@@ -8,7 +8,7 @@ I build scalable services — mostly in **Go** — for high-traffic, distributed
 
 ## 🚀 What I'm doing now
 
-I'am work as a Software Engineer and I am currently scaling @ [Sardine.ai](https://www.sardine.ai) to be next Unicorn of US.
+I work as a Software Engineer and I am currently scaling @ [Sardine.ai](https://www.sardine.ai) to be next Unicorn of US.
 
 ---
 
