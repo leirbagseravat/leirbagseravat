@@ -14,12 +14,6 @@ I work as a Software Engineer and I am currently scaling @ [Sardine.ai](https://
 
 ## 🛠️ Projects
 
-### 🔒 [mctest-validator](https://github.com/leirbagseravat/mctest-validator-api)
-
-A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampirolli/mctest) — a platform for generating and auto-grading parametric exams — against malicious or insecure Python embedded in exam questions.
-
-> 🎓 Built as the implementation of my undergraduate CS thesis at **UFABC** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"* (Dec 2024).
-
 ### 🏠 [tax-deeds](https://github.com/leirbagseravat/tax-deeds)
 
 A **Go document-intelligence pipeline** that turns Brazilian property *matrículas* (dense real-estate registry documents) into structured, queryable data. Upload a PDF → OCR → **LLM extraction** of owners, registered acts and liens → read API, so a distressed-property purchase can be vetted in seconds instead of hours.
@@ -29,6 +23,12 @@ A **Go document-intelligence pipeline** that turns Brazilian property *matrícul
 ### 📊 [collector](https://github.com/leirbagseravat/collector)
 
 A runnable **distributed observability stack**: Go and Python services plus PostgreSQL all ship structured logs through a single **OpenTelemetry Collector** into **Elasticsearch**, surfaced in a pre-provisioned **Grafana** dashboard — with `trace_id`/`span_id` correlation end to end.
+
+### 🔒 [mctest-validator](https://github.com/leirbagseravat/mctest-validator-api)
+
+A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampirolli/mctest) — a platform for generating and auto-grading parametric exams — against malicious or insecure Python embedded in exam questions.
+
+> 🎓 Built as the implementation of my undergraduate CS thesis at **UFABC** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"* (Dec 2024).
 
 ---
 
