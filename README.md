@@ -20,7 +20,19 @@ A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampiro
 
 > 🎓 Built as the implementation of my undergraduate CS thesis at **UFABC** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"* (Dec 2024).
 
-## 🛠️ Tech Stack
+### 🏠 [tax-deeds](https://github.com/leirbagseravat/tax-deeds)
+
+A **Go document-intelligence pipeline** that turns Brazilian property *matrículas* (dense real-estate registry documents) into structured, queryable data. Upload a PDF → OCR → **LLM extraction** of owners, registered acts and liens → read API, so a distressed-property purchase can be vetted in seconds instead of hours.
+
+> Three services (`cmd/api`, `cmd/ocr`, `cmd/migrate`) over **Postgres** and **GCS**, with pluggable OCR engines and LLM providers.
+
+### 📊 [collector](https://github.com/leirbagseravat/collector)
+
+A runnable **distributed observability stack**: Go and Python services plus PostgreSQL all ship structured logs through a single **OpenTelemetry Collector** into **Elasticsearch**, surfaced in a pre-provisioned **Grafana** dashboard — with `trace_id`/`span_id` correlation end to end.
+
+---
+
+## 🧰 Tech Stack
 
 **Languages & Frameworks**
 
@@ -28,6 +40,8 @@ A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampiro
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases & Streaming**
 
@@ -43,10 +57,17 @@ A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampiro
 
 **Observability**
 
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=for-the-badge&logo=atlassian&logoColor=white)
+
+**Cloud & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
