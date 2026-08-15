@@ -18,11 +18,9 @@ I work as a Software Engineer and I am currently scaling @ [Sardine.ai](https://
 
 A **Go document-intelligence pipeline** that turns Brazilian property *matrículas* (dense real-estate registry documents) into structured, queryable data. Upload a PDF → OCR → **LLM extraction** of owners, registered acts and liens → read API, so a distressed-property purchase can be vetted in seconds instead of hours.
 
-> Three services (`cmd/api`, `cmd/ocr`, `cmd/migrate`) over **Postgres** and **GCS**, with pluggable OCR engines and LLM providers.
-
 ### 📊 [collector](https://github.com/leirbagseravat/collector)
 
-A runnable **distributed observability stack**: Go and Python services plus PostgreSQL all ship structured logs through a single **OpenTelemetry Collector** into **Elasticsearch**, surfaced in a pre-provisioned **Grafana** dashboard — with `trace_id`/`span_id` correlation end to end.
+A runnable **distributed observability stack**: Go and Python services plus PostgreSQL all ship structured logs through a single **OpenTelemetry Collector** into **Elasticsearch**, surfaced in a pre-provisioned **Grafana** dashboard.
 
 ### 🔒 [mctest-validator](https://github.com/leirbagseravat/mctest-validator-api)
 
