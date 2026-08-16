@@ -18,7 +18,8 @@ I work as a Software Engineer and I am currently scaling @ [Sardine.ai](https://
 
 ### [tax-deeds](https://github.com/leirbagseravat/tax-deeds)
 
-A **Go document-intelligence pipeline** that turns Brazilian property *matrículas* (dense real-estate registry documents) into structured, queryable data. Upload a PDF → OCR → **LLM extraction** of owners, registered acts and liens → read API, so a distressed-property purchase can be vetted in seconds instead of hours.
+A **Go document-intelligence pipeline** that turns Brazilian tax-deeds documents into structured, queryable data. </br>
+Upload a PDF → OCR extraction → LLM analysis of owners, registered acts, liens and risk. Watch the demo here.
 
 ### [collector](https://github.com/leirbagseravat/collector)
 
@@ -28,7 +29,7 @@ A runnable **distributed observability stack**: Go and Python services plus Post
 
 A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampirolli/mctest) — a platform for generating and auto-grading parametric exams — against malicious or insecure Python embedded in exam questions.
 
-> 🎓 Built as the implementation of my undergraduate CS thesis at **[UFABC](https://www.ufabc.edu.br/en/)** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"*
+>  Built as the implementation of my undergraduate CS thesis at **[UFABC](https://www.ufabc.edu.br/en/)** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"*
 
 ---
 
