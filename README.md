@@ -26,7 +26,7 @@ A runnable **distributed observability stack**: Go and Python services plus Post
 
 A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampirolli/mctest) — a platform for generating and auto-grading parametric exams — against malicious or insecure Python embedded in exam questions.
 
-> 🎓 Built as the implementation of my undergraduate CS thesis at **UFABC** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"* (Dec 2024).
+> 🎓 Built as the implementation of my undergraduate CS thesis at **[UFABC](https://www.ufabc.edu.br/en/)** — *"Um Sistema Distribuído para Geração e Correção Segura de Provas em Python"*
 
 ---
 
