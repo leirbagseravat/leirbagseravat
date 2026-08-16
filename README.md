@@ -49,20 +49,6 @@ A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampiro
 
 ---
 
-
-## Education
-
-**B.Sc. Computer Science** — Federal University of ABC (UFABC)
-*Thesis: MCTest Validator — detecting and mitigating SQL & command-injection vulnerabilities in Python code.*
-
----
-
-## Languages
-
-Portuguese (Native) · English (Fluent) · Spanish (Basic)
-
----
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltfazevedo)
