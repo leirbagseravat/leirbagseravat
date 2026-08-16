@@ -34,38 +34,19 @@ A **Go/Gin REST microservice** that hardens [MCTest](https://github.com/fzampiro
 
 **Languages & Frameworks**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Languages & Frameworks](https://skillicons.dev/icons?i=go,ts,nodejs,react,py,fastapi)](https://skillicons.dev)
 
 **Databases & Streaming**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Google Datastore](https://img.shields.io/badge/Datastore-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Amazon Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsimplequeueservice&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+[![Databases & Streaming](https://skillicons.dev/icons?i=postgres,mysql,dynamodb,elasticsearch,kafka)](https://skillicons.dev)
 
 **Observability**
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=for-the-badge&logo=atlassian&logoColor=white)
+[![Observability](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
 
 **Cloud & Infra**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
 
 ---
 
