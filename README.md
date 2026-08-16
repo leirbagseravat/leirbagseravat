@@ -2,7 +2,7 @@
 
 **Backend Engineer** based in São Paulo, Brazil 🇧🇷
 
-I build scalable services — mostly in **Go** — for high-traffic, distributed systems. I care about performance, reliability, and shipping products that move real business metrics.
+Backend engineer with over 7 years of experience designing scalable services and high-throughput distributed systems, predominantly in Go. Experience spans payments, fraud & risk, and large-scale POS device fleets across LATAM, backed by a B.Sc. in Computer Science at a Brazilian top ranked university.
 
 ---
 
